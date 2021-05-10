@@ -15,7 +15,7 @@ def shuffle_pass(p):
             print(f"Your {len(password)} Digit Password is copied to clipboard!")
             break
         else:
-            print("Entered value is wrong Try again !")
+            break
 
 
 def password_generator():
