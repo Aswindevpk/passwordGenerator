@@ -31,6 +31,6 @@ A simple command-line application that generates a secure 10-character password 
 1. **Run the application**:
 
     ```bash
-    python password_generator.py
+    python main.py
     ```
 
